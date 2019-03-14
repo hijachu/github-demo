@@ -8,3 +8,6 @@ A simple demo repository to show the basic Git workflow
 ## Add new section here
 
 ![#]ABC
+
+## Chapter 2
+!Bold!  Test
